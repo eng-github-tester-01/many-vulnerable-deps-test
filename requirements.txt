@@ -3,7 +3,6 @@
 # Designed to maximize Dependabot alerts (2026)
 # ================================================
 
-# Comment added
 # Your original entries (kept)
 django==4.2.0
 flask==2.2.5
