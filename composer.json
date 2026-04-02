@@ -1,0 +1,7 @@
+{
+  "require": {
+    "laravel/framework": "8.0.0",
+    "guzzlehttp/guzzle": "7.0.0",
+    "monolog/monolog": "2.0.0"
+  }
+}
