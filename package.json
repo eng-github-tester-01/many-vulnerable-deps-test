@@ -60,7 +60,7 @@
     "bluebird": "3.0.0",
     "async": "2.0.0",
     "core-js": "2.0.0",
-    "whatwg-fetch": "2.0.0",
+    "whatwg-fetch": "3.6.20",
     "form-data": "2.0.0",
     "tough-cookie": "2.0.0",
     "firebase": "3.0.0",
